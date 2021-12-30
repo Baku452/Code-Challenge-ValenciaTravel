@@ -15,8 +15,11 @@ Requerimientos:
 3. Usar únicamente estilos CSS, SASS
 4. Habilitar un botón de "Mostrar Productos"
 5. Usar React Hooks
+6. Al seleccionarl detalles agregar un modal que permita ver la descripción del producto
 
 Extras:
 
 1. Agregar un botón de filtro para ordenar por categorías
 2. Implementar scroll infinito en dispositvos móviles
+
+[Volver a los Ejercicios](../Desafios.md)

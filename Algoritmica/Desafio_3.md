@@ -12,3 +12,5 @@ Dado una cadena, mostrar las permutaciones posibles de la misma , por ejemplo co
 'AHOL', 'AHLO', 'AOHL',
 'AOLH', 'ALHO', 'ALOH'
 ]
+
+[Volver a los Ejercicios](../Desafios.md)
