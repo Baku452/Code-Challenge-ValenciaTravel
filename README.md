@@ -1,5 +1,5 @@
 # Code-Challenge-ValenciaTravel
-Test de conocimientos de React
+Evaluación técnica 
 
 
 ## Reto #1
