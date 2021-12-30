@@ -4,7 +4,7 @@ Test de conocimientos de React
 
 ## Reto #1
 
-1. Dato un arreglo de 6x6 (2 dimensiones) :
+Dato un arreglo de 6x6 (2 dimensiones) :
 
 1 1 1 0 0 0
 0 1 0 0 0 0
