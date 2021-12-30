@@ -14,6 +14,6 @@ Se debe tener endopoints que permitan lo siguiente:
 2. Listar los paquetes turísticos más populares
 3. Listar todos los paquetes más económicos
 
-(Cargar un máximo de 5 paquetes para las pruebas)
+(Cargar un máximo de 5 paquetes para las pruebas, usar serializer de preferencia)
 
 [Volver a los Ejercicios](../Desafios.md)
