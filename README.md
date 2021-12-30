@@ -5,13 +5,13 @@ Evaluación técnica
 ## Reto #1
 
 Dato un arreglo de 6x6 (2 dimensiones) :
-
+`
 1 1 1 0 0 0
 0 1 0 0 0 0
 1 1 1 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
+0 0 0 0 0 0`
 
 Se tiene un reloj de arena que sigue el siguiente patron:
 
