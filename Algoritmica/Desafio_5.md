@@ -1,7 +1,18 @@
 ## Reto #5
 
-Dado un caracter, imprimir el primer caracter que no se repita en la cadena, por ejemplo
-"Nosotros valencia travel cusco"
+Mediante destructuring obtener los siguientes datos de un objeto
+
+Book = {
+title: "Javascript ES6",
+num: 124,
+author: {
+name: "Valencia",
+addres:{
+country: "Peru",
+city; "Cusco",
+}
+},
+}
 
 Primer caracter: "n"
 
