@@ -1,6 +1,6 @@
 ## Reto #5
 
-Mediante destructuring obtener los siguientes datos de un objeto
+Teniendo el siguiente objeto
 
 Book = {
 title: "Javascript ES6",
@@ -14,6 +14,6 @@ city; "Cusco",
 },
 }
 
-Primer caracter: "n"
+Mostrar en consola la ciudad con el nombre del autor
 
 [Volver a los Ejercicios](../Desafios.md)
